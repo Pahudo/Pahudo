@@ -2,7 +2,7 @@
 
 🎓 I hold a degree in **Systems Analysis and Development** and a technical degree in **Information Technology**.  
 💻 Passionate about **Back-end Development** and **Data Analysis**, knowledgeable in **Java, Python, and PHP**.  
-🚀 Always learning, building, and exploring new technologies to deliver efficient solutions. 
+🚀 Always learning, building, and exploring new technologies to deliver efficient solutions.  
 🌱 I seek opportunities and challenges to grow as a developer, contributing with efficient and innovative solutions.
 
 ---
