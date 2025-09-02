@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Pedro Sousa  
 
 🎓 I hold a degree in **Systems Analysis and Development** and a technical degree in **Information Technology**.  
-💻 Passionate about **Back-end Development** and **Data Analysis**, with experience in **Java, Python, and PHP**.  
-🚀 Always learning, building, and exploring new technologies to deliver efficient solutions.  
+💻 Passionate about **Back-end Development** and **Data Analysis**, knowledgeable in **Java, Python, and PHP**.  
+🚀 Always learning, building, and exploring new technologies to deliver efficient solutions. 
+🌱 I seek opportunities and challenges to grow as a developer, contributing with efficient and innovative solutions.
 
 ---
 
@@ -22,8 +23,8 @@ Here are some projects I’ll be adding soon:
 ---
 
 ## 📊 GitHub Stats  
-![Pedro’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueSousa&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueSousa&layout=compact&theme=default)  
+![Pedro’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pahudo&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahudo&layout=compact&theme=default)  
 
 ---
 
