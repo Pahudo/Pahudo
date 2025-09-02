@@ -29,7 +29,6 @@ Here are some projects I’ll be adding soon:
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/pedro-sousa-400ba81b5/)  
-- 📧 pedrohsousa13@gmail.com  
+- 📧 dev.phsousa@gmail.com  
 
 ---
-✨ *“Code, learn, and keep building.”*  
