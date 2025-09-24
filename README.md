@@ -16,7 +16,7 @@
 
 ## 📂 Projects  
 Here are some projects I’ll be adding soon:  
-- 🔹 [Project 1 – Coming Soon]  
+- 🔹 FocusList - Project of a To-Do-List: https://github.com/Pahudo/FocusList
 - 🔹 [Project 2 – Coming Soon]  
 - 🔹 [Project 3 – Coming Soon]  
 
