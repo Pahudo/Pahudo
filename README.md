@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java · Python · PHP  
+- **Languages:** Java · Python  
 - **Focus Areas:** Back-end Development · Data Analysis  
 - **Other Interests:** Databases, APIs, and scalable systems  
 
