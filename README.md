@@ -23,9 +23,7 @@ Here are some projects I’ll be adding soon:
 ---
 
 ## 📊 GitHub Stats  
-![Pedro's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pahudo&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pahudo&layout=compact&theme=default)  
-
+![GitHub Streak](https://ninja-readme-stats.vercel.app/api?username=Pahudo&show_icons=true&theme=default)
 ---
 
 ## 📫 Connect with Me  
