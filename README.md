@@ -23,8 +23,8 @@ Here are some projects I’ll be adding soon:
 ---
 
 ## 📊 GitHub Stats
-![Pedro's GitHub Stats](https://vercel.app)  
-![Top Languages](https://vercel.app)
+![Pedro's GitHub Stats](github-readme-stats-zeta-two-70.vercel.app)  
+![Top Languages](github-readme-stats-zeta-two-70.vercel.app)
 ---
 
 ## 📫 Connect with Me  
