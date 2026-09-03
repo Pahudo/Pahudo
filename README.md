@@ -22,9 +22,10 @@ Here are some projects I’ll be adding soon:
 
 ---
 
-## 📊 GitHub Stats  
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pahudo&show_icons=true&theme=default)  
+## 📊 GitHub Stats
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pahudo&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pahudo&layout=compact&theme=default)
+![Pedro's Streak](https://herokuapp.com)
 ---
 
 ## 📫 Connect with Me  
