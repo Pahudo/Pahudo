@@ -23,8 +23,8 @@ Here are some projects I’ll be adding soon:
 ---
 
 ## 📊 GitHub Stats
-![Pedro's GitHub Stats](https://github-stats-extended-frontend-gold-pi.vercel.app/api?username=Pahudo&show_icons=true&theme=default)  
-![Top Languages](https://github-stats-extended-frontend-gold-pi.vercel.app/api/top-langs/?username=Pahudo&layout=compact&theme=default)
+![Pedro's GitHub Stats](https://github-stats-extended-frontend-gold-pi.vercel.app/api?username=Pahudo&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-stats-extended-frontend-gold-pi.vercel.app/api/top-langs/?username=Pahudo&layout=compact&theme=tokyonight)
 
 ---
 
